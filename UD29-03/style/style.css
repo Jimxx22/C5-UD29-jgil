@@ -1,0 +1,24 @@
+table{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+    font-weight: bold;
+    width: 1000px;
+    text-align: center;
+} 
+.red{
+    color: red;
+}
+.cel1{
+    background-color: lightgreen;
+}
+.cel2{
+    background-color: cyan;
+    text-align: left;
+}
+.cel6{
+    vertical-align: bottom;
+    text-align: right;
+    background-color: rgb(255, 106, 255);
+}

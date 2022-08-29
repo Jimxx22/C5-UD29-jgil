@@ -1,0 +1,26 @@
+div{
+    background-image: url("/img/foto+de+pinguinos.webp");
+    height: 500px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+table{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 50%;
+    margin: auto;
+    background-color: rgb(245, 243, 146);
+    border: 1px solid black;
+}
+td, th{
+    border: 1px solid black;
+    width: 300px;
+    text-align: center;
+}
+th{
+    background-color: white;
+}

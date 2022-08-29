@@ -1,0 +1,22 @@
+table{
+    border: 1px solid lightseagreen;
+}
+
+td, th{
+    border: 2px solid lightseagreen;
+    padding: 2px;
+    margin: 0px;
+}
+th{
+    background-color: #205516;
+    color: #A5F496;
+}
+tr{
+    background-color: #A5F496;
+}
+.esp{
+    background-color: #84CA76;
+}
+.col1{
+    width: 200px;
+}
