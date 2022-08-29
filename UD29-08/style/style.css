@@ -3,7 +3,7 @@
     background-color: lightblue;
     margin: auto;
     margin-bottom: 20px;
-    background-image: url("/img/f03.png");
+    background-image: url("/C5-UD29-jgil/UD29-08/img/f03.png");
     background-repeat: repeat-x;
 }
 
@@ -19,7 +19,7 @@
     border: 3px solid red;
 } 
 .mario{
-    background-image: url("/img/f02.png");
+    background-image: url("/C5-UD29-jgil/UD29-08/img/f02.png");
     height: 100px;
     position: absolute;
     width: 100%;
@@ -33,6 +33,6 @@
     width: 100%;
     height: 10px;
     bottom: 0;
-    background-image: url("/img/f01.png");
+    background-image: url("/C5-UD29-jgil/UD29-08/img/f01.png");
     background-position: 0%;
 }
